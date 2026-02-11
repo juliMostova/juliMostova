@@ -20,25 +20,17 @@
 |------|------|------------|------|-------------|
 | Bar Website | Сайт бару з меню напоїв та власною базою даних | React, Vite, CSS | [Демо](https://julimostova.github.io/bar-website/) | [GitHub](https://github.com/juliMostova/bar-website) |
 | Online Movie Theatre | Кінотеатр з пошуком фільмів і серіалів (TMDB API) | React, API, Vite | [Демо](https://julimostova.github.io/onlineMoviTheatreWithApi/) | [GitHub](https://github.com/juliMostova/onlineMoviTheatreWithApi) |
-| Shopping Cart | Корзина товарів з додаванням/видаленням і підрахунком суми | React, Vite, RTK (планується) | [Демо](https://julimostova.github.io/shoppingCard/) | [GitHub](https://github.com/juliMostova/shoppingCard) |
-| Travel Blog | Блог подорожей з плануванням і фото-галереєю | React, CSS | [Демо](https://julimostova.github.io/Travel-/) | [GitHub](https://github.com/juliMostova/Travel-) |          | 🔸 У планах           | Хочу розширити горизонти поза React           |
+| Shopping Cart | Корзина товарів з додаванням/видаленням і підрахунком суми | React, TS | [Демо](https://julimostova.github.io/shoppingCard/) | [GitHub](https://github.com/juliMostova/shoppingCard) |
+| Travel Blog | Блог подорожей з плануванням і фото-галереєю | React, TS | [Демо](https://julimostova.github.io/Travel-/) | [GitHub](https://github.com/juliMostova/Travel-) |          | 🔸 У планах           | Хочу розширити горизонти поза React           |
 
 
-📚 Освіта
-- Курси ITGit: JavaScript v2.0 ,ReactJS
-- Udemy: Повний курс по JavaScript + React - з нуля до результату
+### Контакти
 
-🎯 Мій підхід
-Я люблю рефакторинг, експерименти та архітектурне мислення. Вмію розбивати складні задачі на прості кроки, швидко знаходити помилки та пояснювати "чому", а не лише "як".
+- LinkedIn: [linkedin.com/in/юлія-мостова-a6aa7b228](https://www.linkedin.com/in/юлія-мостова-a6aa7b228)  
+- Email: julia.mostova89@gmail.com  
+- Telegram: @juliMostova (якщо є)
 
-🚀 Цілі
-- Поглибити знання в побудові складних UI (деревоподібні структури, рекурсія)
-- Прокачати state management для масштабних додатків
-- Підготуватися до технічних співбесід на архітектурні теми
-💬 Особисто
-Я не претендую на ідеальність. Я все ще вчуся, іноді плутаюся, але завжди повертаюся до аналізу. Люблю складні задачі, рефакторинг і діалог. Вірю, що глибина важливіша за швидкість, і що кожен день — це крок уперед.
-
-
+Готова до нових викликів і чекаю на першу комерційну можливість 🚀
 
 
 

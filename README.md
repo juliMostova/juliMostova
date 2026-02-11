@@ -1,24 +1,27 @@
 
 ### About me
 Привіт! Я — Юля 👋
-Фронтенд-розробниця з фокусом на React. Протягом останніх двох років я активно занурююсь у світ веб-розробки — від побудови UI до архітектурних рішень. Мене захоплює створення інтерфейсів, які не просто працюють, а приносять задоволення користувачам.
+Фронтенд-розробниця з фокусом на React. Працюю над чистими інтерфейсами, оптимізацією та сучасними інструментами (RTK, Vite, TypeScript в процесі).
 
- 🧠 Технології, які я пояснюю трохи глибше
+📊 Мій стек (актуальний на 2025)
 
-- React — працюю з хуками, оптимізацією, lifting state up, controlled/uncontrolled компонентами
-- JavaScript — використовую в React, поглиблюю знання поза фреймворком
-- Fetch API — використовую для запитів до бекенду, працюю з асинхронністю, обробкою помилок та JSON
+- React (Hooks, Context, Router, RTK Query)  
+- Redux Toolkit + RTK Query  
+- JavaScript (ES6+)  
+- TypeScript — активно вивчаю  
+- Vite, Git/GitHub  
+- Responsive дизайн (flex, grid)  
+- Bootstrap / Material UI / Tailwind CSS (в процесі)  
+- API (REST, fetch)  
+- localStorage, доступність (ARIA, семантика)
 
-
-📊 Мій стек
-| Технологія      | Рівень               | Коментар                                      |
-|-----------------|------------------------|-----------------------------------------------|
-| React           | 🔹 Використовую щодня | Працюю з хуками, оптимізацією, lifting state up |
-| Redux / Context | 🔹 Практикую          | Розумію підходи до state management           |
-| JavaScript      | 🔹 Практикую          | Пишу логіку в React, поглиблюю знання         |
-| TypeScript      | 🔸 В процесі освоєння | Читаю документацію, планую інтегрувати        |
-| CSS / Tailwind  | 🔹 Використовую       | Створюю адаптивні стилі, працюю з UI/UX       |
-| Vue.js          | 🔸 У планах           | Хочу розширити горизонти поза React           |
+### Найкращі pet-проєкти (з демо)
+| Проєкт | Опис | Технології | Демо | Репозиторій |
+|------|------|------------|------|-------------|
+| Bar Website | Сайт бару з меню напоїв та власною базою даних | React, Vite, CSS | [Демо](https://julimostova.github.io/bar-website/) | [GitHub](https://github.com/juliMostova/bar-website) |
+| Online Movie Theatre | Кінотеатр з пошуком фільмів і серіалів (TMDB API) | React, API, Vite | [Демо](https://julimostova.github.io/onlineMoviTheatreWithApi/) | [GitHub](https://github.com/juliMostova/onlineMoviTheatreWithApi) |
+| Shopping Cart | Корзина товарів з додаванням/видаленням і підрахунком суми | React, Vite, RTK (планується) | [Демо](https://julimostova.github.io/shoppingCard/) | [GitHub](https://github.com/juliMostova/shoppingCard) |
+| Travel Blog | Блог подорожей з плануванням і фото-галереєю | React, CSS | [Демо](https://julimostova.github.io/Travel-/) | [GitHub](https://github.com/juliMostova/Travel-) |          | 🔸 У планах           | Хочу розширити горизонти поза React           |
 
 
 📚 Освіта

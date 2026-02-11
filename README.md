@@ -28,7 +28,7 @@
 
 - LinkedIn: [linkedin.com/in/юлія-мостова-a6aa7b228](https://www.linkedin.com/in/юлія-мостова-a6aa7b228)  
 - Email: julia.mostova89@gmail.com  
-- Telegram: @juliMostova (якщо є)
+- Telegram: Juli Mostova
 
 Готова до нових викликів і чекаю на першу комерційну можливість 🚀
 

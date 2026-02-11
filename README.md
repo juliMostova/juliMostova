@@ -15,7 +15,7 @@
 - API (REST, fetch)  
 - localStorage, доступність (ARIA, семантика)
 
-### Найкращі pet-проєкти (з демо)
+###  pet-проєкти (з демо)
 | Проєкт | Опис | Технології | Демо | Репозиторій |
 |------|------|------------|------|-------------|
 | Bar Website | Сайт бару з меню напоїв та власною базою даних | React, Vite, CSS | [Демо](https://julimostova.github.io/bar-website/) | [GitHub](https://github.com/juliMostova/bar-website) |
